@@ -30,7 +30,73 @@
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
         ],
-        "KantaiCollection/murakumo"
+        [
+            "KantaiCollection/murakumo"
+        ],
+        [
+            "cat/tororo",
+            "cat/hijiki"
+        ],
+        [
+            "Yuzuki Yukari/yukari_model",
+            "Yuzuki Yukari/YuzukiYukari"
+        ],
+        [
+            "miku"
+        ],
+        [
+            "Kobayaxi"
+        ],
+        [
+            "z16"
+        ],
+        [
+            "Platelet/kesyoban",
+            "Platelet/PLT"
+        ],
+        [
+            "Unitychan"
+        ],
+        [
+            "ni/ni-j",
+            "ni/nico",
+            "ni/nietzsche",
+            "ni/nipsilon",
+            "ni/nito"
+        ],
+        [
+            "Epsilon/Epsilon",
+            "Epsilon/Epsilon2.1"
+        ],
+        [
+            "len/len",
+            "len/len_impact",
+            "len/len_space",
+            "len/len_swim"
+        ],
+        [
+            "man/chitose",
+            "man/chiaki_kitty",
+            "man/jin",
+            "man/stl",
+            "man/touma"
+        ],
+        [
+            "Bronya"
+        ],
+        [
+            "hibiki"
+        ],
+        [
+            "koharu"
+        ],
+        [
+            "haruto"
+        ],
+        [
+            "makoto0"
+        ],
+            "iio"
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
@@ -39,6 +105,23 @@
         "来自 Bilibili Live 的 33 的说",
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 超次元游戏：海王星 系列",
-        "艦隊これくしょん / 叢雲(むらくも)"
+        "艦隊これくしょん / 叢雲(むらくも)",
+        "我是一只小猫咪",
+        "来自 Vocaloid 系列 的 結月ゆかり ~",
+        "来自 Vocaloid 系列 的 初音ミク ~",
+        "来自 小林家的龙女仆 的 康娜卡姆依 ~",
+        "来自 战舰少女 的 Z16 ~",
+        "来自 工作细胞 的 血小板 ~",
+        "来自 Unity 的 Unity Chan 娘 ~",
+        "ni 系列",
+        "Epsilon 系列",
+        "len 系列",
+        "man 系列",
+        "Bronya",
+        "hibiki",
+        "Koharu",
+        "Haruto",
+        "Makoto",
+        "iio"
     ]
 }
